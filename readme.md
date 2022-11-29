@@ -19,4 +19,3 @@
 
 Удачи!
 
-test test test
